@@ -1,0 +1,9 @@
+---
+profile::pasture::app::default_message: "Welcome to Beauvine!"
+profile::base::dev_users::users:
+  - title: 'bessie'
+    comment: 'Bessie Johnson'
+    pub_key:  'AAAAB3NzaC1yc2EAAAADAQABAAABAQCeYyjwT44aQEOGdvwHGUUcKKz+OIGScdmi4mmjnW8SXU2TH2sFz1muW5On4M+K8EqZ98PRsHf+141NeU9OaFEsTafz4/9UA6bowNuSg6nNsR2Y/HvFwrwpXD/HyQWyZL/2hmYsFi6He3dambTwQ0CetYO5qyOlD4ubpHVhyExnJca3BiZeb6pUJ4w4y92hIoCLX928UH90zeUkTsjjDWadBCcq2eeO3cBvuJk1JjHj0sZHAtutkKYXx5DOdRy+qPwPEAybs0HX3cs9W6uO5rENiKCLY1AkUrxJZq5Dkag1TcAQbSB7sEDWYIz9QpB0Ao+t6qenW7XVIA0pkisnjnEr'
+  - title:  'gertie'
+    comment:  'Gertie Philips'
+    pub_key:  'AAAAB3NzaC1yc2EAAAADAQABAAABAQCeYyjwT44aQEOGdvwHGUUcKKz+OIGScdmi4mmjnW8SXU2TH2sFz1muW5On4M+K8EqZ98PRsHf+141NeU9OaFEsTafz4/9UA6bowNuSg6nNsR2Y/HvFwrwpXD/HyQWyZL/2hmYsFi6He3dambTwQ0CetYO5qyOlD4ubpHVhyExnJca3BiZeb6pUJ4w4y92hIoCLX928UH90zeUkTsjjDWadBCcq2eeO3cBvuJk1JjHj0sZHAtutkKYXx5DOdRy+qPwPEAybs0HX3cs9W6uO5rENiKCLY1AkUrxJZq5Dkag1TcAQbSB7sEDWYIz9QpB0Ao+t6qenW7XVIA0pkisnjnEr'
